@@ -14,5 +14,5 @@
 # Product Extras: 
 ## Product Teaser: 
 https://github.com/Aj-Cdr/Jokes-GPT/assets/95515701/8da73285-74d1-4376-b9d0-ba3295f49f11
-### Final Product Presentation, Product & Testing: [Final Product Presentation.pdf](https://github.com/Aj-Cdr/Jokes-GPT/files/12326206/Final.Product.Presentation.pdf)
-### Our Model On Hugging_Face, Check It Out: https://huggingface.co/Aj-Cdr/jokes-gpt
+#### Final Product Presentation, Product & Testing: [Final Product Presentation.pdf](https://github.com/Aj-Cdr/Jokes-GPT/files/12326206/Final.Product.Presentation.pdf), & Our Model On Hugging_Face, Check It Out: https://huggingface.co/Aj-Cdr/jokes-gpt
+#### This is my website version of jokes-gpt that I created with another template just as a personal web development project. Feel free to check this out too. Link: https://aj-cdr.github.io/Jokes-GPT/
