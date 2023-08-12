@@ -10,3 +10,9 @@
 * William
 * Arnav
 #### For Making This Product Possible
+
+## Product Teaser: 
+https://github.com/Aj-Cdr/Jokes-GPT/assets/95515701/8da73285-74d1-4376-b9d0-ba3295f49f11
+
+## Final Product Presentation, Product & Testing
+[Final Product Presentation.pdf](https://github.com/Aj-Cdr/Jokes-GPT/files/12326206/Final.Product.Presentation.pdf)
